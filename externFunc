@@ -1,7 +1,7 @@
 [
   {
     "key" : "TestModule",
-    "show" : 0,
+    "show" : 1,
     "title" : "测试模块"
   },
   {
