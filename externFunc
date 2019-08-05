@@ -1,12 +1,12 @@
 [
   {
     "key" : "TestModule",
-    "show" : 1,
+    "show" : 0,
     "title" : "测试模块"
   },
   {
     "key" : "SecondModule",
-    "show" : 0,
-    "title" : "测试模块2"
+    "show" : 1,
+    "title" : "Json解析"
   }
 ]
